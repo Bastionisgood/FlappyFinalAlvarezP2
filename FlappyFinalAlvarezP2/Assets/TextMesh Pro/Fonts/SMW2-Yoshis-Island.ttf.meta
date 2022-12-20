@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 870979c6df69256469acc533b1aea6f0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - 'SMW2: Yoshi''s Island'
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 828330c7d205d7a40a806bccd687ff95, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
